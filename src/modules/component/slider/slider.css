@@ -1,0 +1,18 @@
+.slide-details-wrapper{
+    position: absolute;
+    color:#000000;
+    top:30%;
+    left:15%;
+    text-align: left;
+}
+.slide-short-description{
+    font-size: 26px;
+    letter-spacing: 0.1em;
+}
+.slide-title{
+    background-color:#000000;
+    padding:10px;
+    color:#ffffff;
+    font-size: 30px;
+
+}
